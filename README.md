@@ -1,6 +1,12 @@
 Support me on yt here: (https://www.youtube.com/@glitchplayz1000)
 
 
+ ![Alt text](https://github.com/user-attachments/assets/97e56ee9-8f84-4be9-8ac7-b55edb961e80)
+
+
+
+
+
 
                                                              PREVIEWS                       
 💫🟣Purple Theme🟣💫
