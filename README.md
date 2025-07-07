@@ -30,15 +30,18 @@ Support me on yt here: (https://www.youtube.com/@glitchplayz1000)
 How to get these:-
 
 
-1)Install glaze wm.
+1)Install yasb reborn.
 
 
-2)Install neofetch-win using (winget install neofetch-win).
+2)Install glaze wm.
 
 
-3)right click on your yasb reborn on the system tray and select open config, after, install the config file given above or copy the code and replace the default config.
+3)Install neofetch-win using (winget install neofetch-win).
 
 
-4)apply the wallpaper.
+4)right click on your yasb reborn on the system tray and select open config, after, install the config file given above or copy the code and replace the default config.
+
+
+5)apply the wallpaper.
 
 Now enjoy your desktop theme!
